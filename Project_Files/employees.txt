@@ -1,0 +1,4 @@
+emp@john,developer,c++,html,javascript
+emp@jane,manager,c++,java
+emp@alice,developer,python,java,javascript
+emp@bob,developer,java,html,python
